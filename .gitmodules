@@ -1,0 +1,6 @@
+[submodule "Vacation-Planner-react-frontend"]
+	path = Vacation-Planner-react-frontend
+	url = https://github.com/Retroviridae/Vacation-Planner-react-frontend
+[submodule "Vacation-Planner-ruby-backend"]
+	path = Vacation-Planner-ruby-backend
+	url = https://github.com/Retroviridae/Vacation-Planner-ruby-backend
